@@ -23,6 +23,7 @@ public class EducLogout {
 		profile.click();
 		Thread.sleep(2000);
 		Logout.click();
+		System.out.println("It will logout the system ");
 		
 		
 	}

@@ -36,6 +36,8 @@ public class EducLogin {
 
 		Pass.sendKeys("Ayirpsh1@");
 		LoginButt.click();
+		System.out.println("Login is successful ");
+		
 	}
 	
 	
